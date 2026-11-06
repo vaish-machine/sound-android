@@ -1,0 +1,1 @@
+# Sound application ProGuard rules.
